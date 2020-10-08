@@ -23,6 +23,7 @@ Various different examples (image classification, object detection and image seg
 7. os
 8. json
 9. jupyter notebook
+10. Intel Movidius Neural Compute Stick 2
 
 ### Documentation
 These jupyter notebooks are based on this meduim article: TODO.
