@@ -3,3 +3,4 @@ models/intel/
 models/public/
 models/ssd_mobilenet_v2_coco_2018_03_29/
 temp/
+.ipynb_checkpoints/
